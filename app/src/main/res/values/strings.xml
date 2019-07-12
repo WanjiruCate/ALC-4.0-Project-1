@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC4.0</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="user_name">Name: Wanjiru Catherine</string>
+    <string name="user_phone">Phone : 0701869953</string>
+    <string name="user_github">Github : kateshiru</string>
+    <string name="user_email">Email  : catherinemunene802@gmail.com</string>
+    <string name="user_twitter">Twitter : shiru_munene</string>
+    <string name="user_image">Shiru Image</string>
+</resources>
