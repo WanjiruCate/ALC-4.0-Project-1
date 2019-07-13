@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         about = findViewById(R.id.about);
         profile = findViewById(R.id.profile);
 
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, Profile.class);
+                startActivity(intent);
             }
         });
     }
